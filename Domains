@@ -29,5 +29,8 @@ hsbc.security-confirm-payement.com, Phishing
 hsbc.security-verify-charge.com, Phishing
 hsbc.security-verify-card.com, Phishing
 hsbc.security-confirm-payments.com, Phishing
+signin-mobilesecure5.com, Phishing
+lloydssignin1.com, Phishing
+www.lloyds-authsignin.com, Phishing
 
 
