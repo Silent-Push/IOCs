@@ -21,8 +21,9 @@
 45.199.63.220,    North Korea, Hidden Cobra, Dest Port 443
 107.187.66.103,   North Korea, Hidden Cobra, Dest Port 443
 193.37.214.196,   GootKit, Dest Port 443
-74.118.138.41,    Bazar, Kegtap
+74.118.138.41,    Bazar, Kegtap, Dest Poert 443
 101.32.99.28,     PyPi, Python, Malware
-8.210.251.203, Phishing
+8.210.251.203, Phishing, Matrix ransomware
 45.90.218.16, Phishing
-192.236.162.204, Phishing
+170.178.168.203, Phishing
+145.249.106.19, North Korea, Hidden Cobra, Dest Port 443
