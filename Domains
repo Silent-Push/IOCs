@@ -17,5 +17,12 @@ hsbc.security-confirm-payments.com, Phishing
 signin-mobilesecure5.com, Phishing
 lloydssignin1.com, Phishing
 www.lloyds-authsignin.com, Phishing
-
-
+sbyod.buzz, HAFNIUM
+nknlabs.io, HAFNIUM  
+ere.life, Suspicious 
+ncdn.io, Suspicious
+smartserver.io, Suspicious
+simonxu.cc, Suspicious
+mimecastverified.com, Domain Spoofing, Possible HAFNIUM
+idshield.app, Suspicious, , Possible HAFNIUM
+mckinseyandco.com,  Domain Spoofing, Possible HAFNIUM
