@@ -21,7 +21,7 @@
 45.199.63.220,    North Korea, Hidden Cobra, Dest Port 443
 107.187.66.103,   North Korea, Hidden Cobra, Dest Port 443
 193.37.214.196,   GootKit, Dest Port 443
-74.118.138.41,    Bazar, Kegtap, Dest Poert 443
+74.118.138.41,    Bazar, Kegtap, Dest Port 443
 101.32.99.28,     PyPi, Python, Malware
 8.210.251.203, Phishing, Matrix ransomware
 45.90.218.16, Phishing
@@ -32,6 +32,10 @@
 157.230.221.198,  SPORTSBALL webshell, HAFNIUM  
 45.144.29.222,    Redline Stealer, Dest Port 3214
 45.144.29.185,    Qbot, Cobalt Strike ShellCode 
+195.181.169.92,   NetBounce, Dest Port 443
+195.181.164.195,  NetBounce, Dest Port 443, Dest Port 9000
+195.181.169.68,   NetBounce, Dest Port 443
+185.59.222.228,   NetBounce, Dest Port 80
 
 
 
