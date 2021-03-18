@@ -36,6 +36,9 @@
 195.181.164.195,  NetBounce, Dest Port 443, Dest Port 9000
 195.181.169.68,   NetBounce, Dest Port 443
 185.59.222.228,   NetBounce, Dest Port 80
+47.94.20.209,     Covenant C2, Powershell Empire
+195.123.239.170,  Covenant C2, Powershell Empire
+
 
 
 
