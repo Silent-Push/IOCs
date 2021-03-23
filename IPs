@@ -33,7 +33,7 @@
 45.144.29.222,    Redline Stealer, Dest Port 3214
 45.144.29.185,    Qbot, Cobalt Strike ShellCode 
 195.181.169.92,   NetBounce, Dest Port 443
-217.147.0.65, Trickbot,ja3.fingerprint 6734f37431670b3ab4292b8f60f29984
+217.147.0.65, Trickbot
 195.181.164.195,  NetBounce, Dest Port 443, Dest Port 9000
 195.181.169.68,   NetBounce, Dest Port 443
 185.59.222.228,   NetBounce, Dest Port 80
