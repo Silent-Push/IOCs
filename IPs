@@ -33,6 +33,8 @@
 45.144.29.222,    Redline Stealer, Dest Port 3214
 45.144.29.185,    Qbot, Cobalt Strike ShellCode 
 195.181.169.92,   NetBounce, Dest Port 443
+
+
 217.147.0.65, Trickbot
 195.181.164.195,  NetBounce, Dest Port 443, Dest Port 9000
 195.181.169.68,   NetBounce, Dest Port 443
@@ -40,6 +42,21 @@
 47.94.20.209,     Covenant C2, Powershell Empire
 195.123.239.170,  Covenant C2, Powershell Empire
 18.166.120.171,   Cobalt Strike Server
+160.124.162.144,  Cobalt Strike Server
+160.124.162.130,  Cobalt Strike Server
+160.124.162.131,  Cobalt Strike Server
+160.124.162.132,  Cobalt Strike Server
+160.124.162.133,  Cobalt Strike Server
+160.124.162.134,  Cobalt Strike Server
+160.124.162.135,  Cobalt Strike Server
+160.124.162.136,  Cobalt Strike Server
+160.124.162.137,  Cobalt Strike Server
+160.124.162.138,  Cobalt Strike Server
+160.124.162.139,  Cobalt Strike Server
+160.124.162.140,  Cobalt Strike Server
+160.124.162.141,  Cobalt Strike Server
+160.124.162.142,  Cobalt Strike Server
+160.124.162.143,  Cobalt Strike Server
 
 
 
